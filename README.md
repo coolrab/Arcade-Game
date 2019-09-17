@@ -1,20 +1,27 @@
-# Classic Arcade Game Clone Project
+# Classic Arcade Game 
 
-## Table of Contents
+## Description
+*	Version of Classic Arcade Game Frogger
+*	Project created as part of the Udacity Front-End Nanodegree program.
+## Project Instructions
+The task is to recreate a classic arcade game with provided visual assets and a game loop engine by adding player characters and enemies using objects and prototype inheritances.
+## Run the Application
+In order to run the application user can:
+*	Clone the git repository
+https://github.com/coolrab/Restaurant_App.git or
+*	Download the .Zip file to the local machine.
+Access the folder and open index.html to load the application in a browser.
 
-- [Instructions](#instructions)
-- [Contributing](#contributing)
-
-## Instructions
-
-Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
-
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
-
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
-
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+## How to Play the Game 
+Use the arrow keys on your keyboard (Up, Down, Left, Right) and move the player towards the water without hitting the bugs! Every time the player reaches the water the game is over and have an opportunity to play again.If the player hits the bug restarts the game. 
+## Contribution
+You are ***welcome*** to contribute to this project.
+Here are some ways you can contribute:
+*	by reporting bugs
+*	by suggesting new features
+*	by writing or editing documentation
+*	by writing specifications
+*	by writing code ( fix or add js files, add comments, modifying styles)
+## Acknowledgment
+*	Udacity community & mentors
+### THANK YOU ...
