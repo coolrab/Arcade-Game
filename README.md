@@ -8,7 +8,7 @@ The task is to recreate a classic arcade game with provided visual assets and a 
 ## Run the Application
 In order to run the application user can:
 *	Clone the git repository
-https://github.com/coolrab/Restaurant_App.git or
+  https://github.com/coolrab/Arcade-Game.git or
 *	Download the .Zip file to the local machine.
 Access the folder and open index.html to load the application in a browser.
 
