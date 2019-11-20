@@ -2,7 +2,6 @@
 
 ## Description
 *	Version of Classic Arcade Game Frogger
-*	Project created as part of the Udacity Front-End Nanodegree program.
 ## Project Instructions
 The task is to recreate a classic arcade game with provided visual assets and a game loop engine by adding player characters and enemies using objects and prototype inheritances.
 ## Run the Application
@@ -22,6 +21,5 @@ Here are some ways you can contribute:
 *	by writing or editing documentation
 *	by writing specifications
 *	by writing code ( fix or add js files, add comments, modifying styles)
-## Acknowledgment
-*	Udacity community & mentors
+
 ### THANK YOU ...
